@@ -17,6 +17,7 @@ My first attempt at making a snake game with pygame
   the regular operations of a tuple
   
   Examples:
+  
     >> Position((5,6)) + Position((7,8))
     
     >> (12,14)
