@@ -1,7 +1,7 @@
 # snake
 My first attempt at making a snake game with pygame
 
-.Files.
+## Files ##
 #config.py
   Contains a bunch of variables to make the game run
   
