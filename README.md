@@ -18,10 +18,15 @@ My first attempt at making a snake game with pygame
   
   Examples:
     >> Position((5,6)) + Position((7,8))
+    
     >> (12,14)
+    
     >> Position((5,6)) - Position((7,8))
+    
     >> (-2, -2)
+    
     >> Position((5,6)) * 100
+    
     >> (500, 600)
     
 #snake.py
